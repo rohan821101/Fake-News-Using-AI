@@ -1,5 +1,3 @@
 pip
 streamlit
-sklearn
-pandas
-numpy
+
