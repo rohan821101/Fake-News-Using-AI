@@ -1,0 +1,7 @@
+Streamlit
+Pickle
+Sklearn
+Tensorflow
+Pandas
+Numpy
+Matplotlib
