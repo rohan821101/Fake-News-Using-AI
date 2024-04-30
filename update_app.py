@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 
-model = pickle.load(open('model_DT.pkl', 'rb'))
+model = pickle.load(open('model_SVM.pkl', 'rb'))
 
 
 st.title('Fake News AI')
